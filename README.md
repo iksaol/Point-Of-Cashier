@@ -1,4 +1,4 @@
-# Point Of Cashier - Sistem Kasir Sederhana
+# Point Of Cashier
 
 Aplikasi kasir berbasis **PHP native, MySQL, HTML, CSS, dan JavaScript** (tanpa framework) yang berjalan lokal di **XAMPP**.
 Dibuat untuk tugas mata kuliah **Pengujian dan Validasi**.
