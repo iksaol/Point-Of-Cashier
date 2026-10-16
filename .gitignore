@@ -1,0 +1,23 @@
+
+# Environment dan kredensial
+.env
+.env.*
+!.env.example
+
+# Dependensi dan cache
+/vendor/
+/node_modules/
+/cache/
+/tmp/
+
+# File log
+*.log
+
+# File sistem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# File backup
+*.bak
+*.old
